@@ -1,0 +1,4 @@
+CREATE  TABLE travel(id int,NAME VARCHAR(20), salary float,days int, age int, hotel VARCHAR(30),place VARCHAR(30),spendingcost fint,2pmquizapp8pm_samplesample2pmquizapp2pmquizapp8pm_sample2pmquizapp2pmquizapptotalcost int);2pmquizapptravel
+CREATE  TABLE employee(id int,NAME VARCHAR(20), salary float,days int, age int, hotel VARCHAR(30),place VARCHAR(30),spendingcost int ,totalcos int);2pmquizapptravel
+CREATE TABLE contact(NAME VARCHAR(30), gender VARCHAR(30), address varchar(30), contno INT);
+CREATE TABLE contact(gender VARCHAR(10), gender VARCHAR(10), address VARCHAR(30), contno int); 2pmquizapptravel
